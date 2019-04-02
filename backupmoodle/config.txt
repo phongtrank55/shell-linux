@@ -1,0 +1,5 @@
+mariadb
+root
+12345
+moodle
+/var/moodledata
